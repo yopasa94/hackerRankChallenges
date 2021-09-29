@@ -1,0 +1,11 @@
+{
+  "name": "subarray_division",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
